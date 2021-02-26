@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Eventos.ClientApp.src.app.fetch_data
+{
+    public class boot
+    {
+    }
+}
